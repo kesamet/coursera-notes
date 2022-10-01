@@ -1,4 +1,6 @@
-# Coursera
+# coursera-notes
+
+This repository contains my completed assignments for the following courses:
 
 - [TensorFlow: Data and Deployment Specialization by DeepLearning.AI - Sep 2022](./Tensorflow2/)
 - [Coding for Everyone: C and C++ Specialization by UCSC - Sep 2022](./cprog/)
