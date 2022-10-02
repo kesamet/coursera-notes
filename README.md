@@ -2,6 +2,7 @@
 
 This repository contains my completed assignments for the following courses:
 
+- [Machine Learning Engineering for Production (MLOps) Specialization by DeepLearning.AI](./MLOps/)
 - [TensorFlow: Data and Deployment Specialization by DeepLearning.AI - Sep 2022](./Tensorflow2/)
 - [Coding for Everyone: C and C++ Specialization by UCSC - Sep 2022](./cprog/)
 - [Generative Adversarial Networks (GANs) Specialization by DeepLearning.AI - Aug 2022](./GAN/)
