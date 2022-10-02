@@ -1,10 +1,12 @@
 # coursera-notes
 
-This repository contains my completed assignments for the following courses:
+This repository contains my completed assignments for the following:
 
-- [Machine Learning Engineering for Production (MLOps) Specialization by DeepLearning.AI](./MLOps/)
-- [TensorFlow: Data and Deployment Specialization by DeepLearning.AI - Sep 2022](./Tensorflow2/)
-- [Coding for Everyone: C and C++ Specialization by UCSC - Sep 2022](./cprog/)
-- [Generative Adversarial Networks (GANs) Specialization by DeepLearning.AI - Aug 2022](./GAN/)
-- [Natural Language Processing Specialization by DeepLearning.AI - Aug 2022](./NLP)
-- [TensorFlow: Advanced Techniques Specialization by DeepLearning.AI - Aug 2022](./Tensorflow/)
+| Specialization/Course | Offered by | Completed |
+| --------------------- | ---------- | --------- |
+| [Machine Learning Engineering for Production (MLOps) Specialization](./MLOps/) | DeepLearning.AI | Sep 2022 |
+| [TensorFlow: Data and Deployment Specialization](./Tensorflow2/) | DeepLearning.AI | Sep 2022 |
+| [Coding for Everyone: C and C++ Specialization](./cprog/) | UCSC | Sep 2022 |
+| [Generative Adversarial Networks (GANs) Specialization](./GAN/) | DeepLearning.AI | Aug 2022 |
+| [Natural Language Processing Specialization](./NLP) | DeepLearning.AI | Aug 2022 |
+| [TensorFlow: Advanced Techniques Specialization](./Tensorflow/) | DeepLearning.AI | Aug 2022 |
