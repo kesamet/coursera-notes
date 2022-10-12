@@ -136,3 +136,8 @@ data/
 outputs/
 results/
 notes/
+asserts/
+*.npy
+*.npz
+*.zip
+*.mp4
