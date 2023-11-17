@@ -4,6 +4,7 @@ This repository contains my completed assignments for the following:
 
 | Specialization/Course | Offered by | Completed |
 | --------------------- | ---------- | --------- |
+| [Mathematics for Machine Learning and Data Science Specialization](./Maths) | DeepLearning.AI | Jun 2023 |
 | [Reinforcement Learning Specialization](./RL/) | Alberta Machine Intelligence Institute | Oct 2022 |
 | [AI for Medicine Specialization](./Med/) | DeepLearning.AI | Oct 2022 |
 | [Machine Learning Engineering for Production (MLOps) Specialization](./MLOps/) | DeepLearning.AI | Sep 2022 |
